@@ -5,9 +5,6 @@ Building an Event-Driven Architecture with AWS S3, Lambda, and SNS Integration
 
 ### **Building an Event-Driven Architecture with S3, Lambda, and SNS Integration**
 
-![image](https://github.com/user-attachments/assets/e4327de3-3d0c-484a-9499-20d8f2d0f236)
-
----
 #### **Project Flow Overview:**
 
 1. **User uploads an image to S3:** This triggers an **S3 Object Created** event.
@@ -17,6 +14,7 @@ Building an Event-Driven Architecture with AWS S3, Lambda, and SNS Integration
 
 
 #### **Project Architecture:**
+![image](https://github.com/user-attachments/assets/e4327de3-3d0c-484a-9499-20d8f2d0f236)
 
 **AWS Services Used**:  
 - **Amazon S3**: To store images uploaded by users.  
